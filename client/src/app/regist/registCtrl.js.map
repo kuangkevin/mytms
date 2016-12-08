@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "registCtrl.js",
+  "sourceRoot": "",
+  "sources": [
+    "registCtrl.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;EAAA,OAAO,CAAC,MAAR,CAAe,QAAf,CACA,CAAC,UADD,CACY,YADZ,EACyB;IAAC,QAAD,EAAU,SAAC,MAAD;MACjC,MAAM,CAAC,UAAP,GAAkB;QAChB,QAAA,EAAS,EADO;QAEhB,QAAA,EAAS,EAFO;QAGhB,SAAA,EAAU,EAHM;;aAKlB,MAAM,CAAC,KAAP,GAAc,SAAA;eACZ,OAAO,CAAC,GAAR,CAAY,MAAM,CAAC,UAAnB;MADY;IANmB,CAAV;GADzB;AAAA"
+}
